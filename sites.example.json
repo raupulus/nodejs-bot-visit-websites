@@ -1,0 +1,20 @@
+[
+  {
+    "url_web": "http://fryntiz.es",
+    "url_login": false,
+    "username": false,
+    "password": false,
+    "selector_user": false,
+    "selector_password": false,
+    "selector_get_links": ".navbar"
+  },
+  {
+    "url_web": "http://fryntiz.es",
+    "url_login": "http://fryntiz.es/login",
+    "username": "example_user",
+    "password": "example_password",
+    "selector_user": "#username-login",
+    "selector_password": "#password-login",
+    "selector_get_links": ".navbar"
+  }
+]
